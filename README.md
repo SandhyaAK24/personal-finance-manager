@@ -2,6 +2,17 @@
 
 A simple, interactive web app to track personal income and expenses, built with **Python** and **Streamlit**.
 
+Screenshots
+
+**App Overview**
+![App Overview](screenshots/app-overview.png)
+
+**Expense & Income Charts**
+![Charts](screenshots/charts.png)
+
+**Transaction History**
+![Transaction History](screenshots/transaction-history.png)
+
 Features
 
 - Add income and expense transactions with date, category, amount, and notes
@@ -23,8 +34,8 @@ How to Run Locally
 
 1. Clone the repository:
    ```
-   git clone https://github.com/SandhyaAK24/personal-finance-manager.git
-   cd personal-finance-manager
+   git clone https://github.com/SandhyaAK24/personal-finance-managerr.git
+   cd personal-finance-managerr
    ```
 
 2. Install the requirements:
