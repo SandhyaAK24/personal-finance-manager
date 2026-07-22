@@ -5,13 +5,13 @@ A simple, interactive web app to track personal income and expenses, built with 
 Screenshots
 
 **App Overview**
-![App Overview](screenshots/app-overview.png)
+![App Overview](app-overview.png)
 
 **Expense & Income Charts**
-![Charts](screenshots/charts.png)
+![Charts](charts.png)
 
 **Transaction History**
-![Transaction History](screenshots/transaction-history.png)
+![Transaction History](transaction-history.png)
 
 Features
 
