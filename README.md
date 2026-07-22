@@ -23,8 +23,8 @@ How to Run Locally
 
 1. Clone the repository:
    ```
-   git clone https://github.com/SandhyaAK24/personal-finance-managerr.git
-   cd personal-finance-managerr
+   git clone https://github.com/SandhyaAK24/personal-finance-manager.git
+   cd personal-finance-manager
    ```
 
 2. Install the requirements:
